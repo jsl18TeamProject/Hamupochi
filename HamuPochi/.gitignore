@@ -1,8 +1,8 @@
 /src/main/generated/
-/src/main/resources/application.properties
-/src/main/java/com/example/HamuPochi/Config
+**/src/main/resources/application.properties
+**/src/main/java/com/example/HamuPochi/Config
 
-/build
+
 gradlew
 gradlew.bat
 HELP.md
