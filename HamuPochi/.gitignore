@@ -1,6 +1,7 @@
 /src/main/generated/
 **/src/main/resources/application.properties
 **/src/main/java/com/example/HamuPochi/Config
+**/src/test
 
 
 gradlew
